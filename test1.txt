@@ -4,3 +4,4 @@ script ke 3
 script ke 4
 script ke 5
 script ke 6
+script ke 7
