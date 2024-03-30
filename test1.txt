@@ -7,3 +7,4 @@ script ke 6
 script ke 7
 script ke 8
 script ke 9
+script ke 10
